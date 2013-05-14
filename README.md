@@ -15,3 +15,6 @@ Guidelines
 ==========
 - commits must contain an issue number
 i.e. [#123] Added feature to do XYZ
+- views must have the ability to be multi-language
+
+
